@@ -6,6 +6,6 @@ FN: Max  McDonough
 TITLE:Software Engineer
 EMAIL;type=INTERNET;type=WORK;type=pref:max.mcdonough@gmail.com
 TEL;type=MOBILE;type=VOICE:+1 404 229 6441
-item2.URL;type=pref:mmmphoto.github.io
-item2.X-ABLabel:_$!<Portfolio>!$_
+item1.URL;type=pref:mmmphoto.github.io
+item1.X-ABLabel:_$!<Portfolio>!$_
 END:VCARD
